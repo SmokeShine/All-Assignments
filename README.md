@@ -4,6 +4,7 @@
 3. Data Engineering Nanodegree
 4. ML-Coursera-Yandex-HSE
 5. Self Driving Car Engineer
+6. Open Data Science
 
 ### Note
 Lots of unoptimized code, use with caution
