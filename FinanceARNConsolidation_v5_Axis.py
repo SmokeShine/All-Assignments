@@ -54,7 +54,7 @@ import sys
 
 print "Checking for Internet Connection\n"
 username = "prateek.gupta1@myntra.com"
-password = "ynapbhpsddyblroz"
+password = ""
 
 server = smtplib.SMTP("smtp.gmail.com:587")
 server.starttls()
@@ -1746,7 +1746,7 @@ recipients= ["santhosh.vr@myntra.com","arun.s@myntra.com","pramod.j@myntra.com",
 emailto=", ".join(recipients)
 fileToSend = pandaspath+"//AxisData_"+str(time.strftime("%m%d%Y"))+".xlsx"
 username = "prateek.gupta1@myntra.com"
-password = "ynapbhpsddyblroz"
+password = ""
 
 msg = MIMEMultipart()
 msg["From"] = emailfrom
