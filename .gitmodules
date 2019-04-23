@@ -1,0 +1,3 @@
+[submodule "Self Driving Car Engineer/CarND-LaneLines-P1"]
+	path = Self Driving Car Engineer/CarND-LaneLines-P1
+	url = https://github.com/udacity/CarND-LaneLines-P1.git
