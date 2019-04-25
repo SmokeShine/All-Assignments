@@ -1,3 +1,6 @@
 [submodule "Self Driving Car Engineer/CarND-LaneLines-P1"]
 	path = Self Driving Car Engineer/CarND-LaneLines-P1
 	url = https://github.com/SmokeShine/CarND-LaneLines-P1.git
+[submodule "Data Scientist Nanodegree/disaster_response_pipeline_project"]
+	path = Data Scientist Nanodegree/disaster_response_pipeline_project
+	url = https://github.com/SmokeShine/disaster_response_pipeline_project.git
