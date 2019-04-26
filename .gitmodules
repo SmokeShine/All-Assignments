@@ -4,3 +4,6 @@
 [submodule "Data Scientist Nanodegree/disaster_response_pipeline_project"]
 	path = Data Scientist Nanodegree/disaster_response_pipeline_project
 	url = https://github.com/SmokeShine/disaster_response_pipeline_project.git
+[submodule "docker-for-data-science-tutorial"]
+	path = docker-for-data-science-tutorial
+	url = https://github.com/SmokeShine/docker-for-data-science-tutorial.git
