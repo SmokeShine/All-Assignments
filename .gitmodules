@@ -7,3 +7,6 @@
 [submodule "docker-for-data-science-tutorial"]
 	path = docker-for-data-science-tutorial
 	url = https://github.com/SmokeShine/docker-for-data-science-tutorial.git
+[submodule "AML Yandex/How To Win Data Science Competitions/competitive-data-science"]
+	path = AML Yandex/How To Win Data Science Competitions/competitive-data-science
+	url = https://github.com/SmokeShine/competitive-data-science.git
