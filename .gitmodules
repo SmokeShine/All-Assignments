@@ -10,3 +10,6 @@
 [submodule "AML Yandex/How To Win Data Science Competitions/competitive-data-science"]
 	path = AML Yandex/How To Win Data Science Competitions/competitive-data-science
 	url = https://github.com/SmokeShine/competitive-data-science.git
+[submodule "Self Driving Car Engineer/CarND-Camera-Calibration"]
+	path = Self Driving Car Engineer/CarND-Camera-Calibration
+	url = https://github.com/SmokeShine/CarND-Camera-Calibration.git
