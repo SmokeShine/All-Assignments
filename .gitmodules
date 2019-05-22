@@ -16,3 +16,6 @@
 [submodule "Self Driving Car Engineer/CarND-Advanced-Lane-Lines"]
 	path = Self Driving Car Engineer/CarND-Advanced-Lane-Lines
 	url = https://github.com/SmokeShine/CarND-Advanced-Lane-Lines.git
+[submodule "Self Driving Car Engineer/CarND-Traffic-Sign-Classifier-Project"]
+	path = Self Driving Car Engineer/CarND-Traffic-Sign-Classifier-Project
+	url = https://github.com/SmokeShine/CarND-Traffic-Sign-Classifier-Project.git
