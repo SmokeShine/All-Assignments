@@ -22,3 +22,6 @@
 [submodule "Self Driving Car Engineer/TensorFlow-Examples"]
 	path = Self Driving Car Engineer/TensorFlow-Examples
 	url = https://github.com/SmokeShine/TensorFlow-Examples.git
+[submodule "Self Driving Car Engineer/CarND-Behavioral-Cloning-P3"]
+	path = Self Driving Car Engineer/CarND-Behavioral-Cloning-P3
+	url = https://github.com/SmokeShine/CarND-Behavioral-Cloning-P3.git
